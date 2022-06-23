@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Invoicing Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Zz
+Implementation-Vendor-Id: com.xu
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.7
+Main-Class: ${start-class}
+
